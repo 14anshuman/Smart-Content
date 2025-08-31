@@ -42,6 +42,7 @@ SmartContent is a powerful web application built for the Google Chrome Built-in 
 
    ```env
    VITE_GEMINI_API_KEY=your_api_key_here
+   VITE_MURF_API_KEY=your_api_key_here
    ```
 
 4. Start the development server:
@@ -119,6 +120,7 @@ Overall, these APIs allowed for a quick and smooth content analysis experience d
 - Google Gemini API
 - The React and TypeScript communities
 - All contributors and users
+
 
 
 
