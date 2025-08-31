@@ -1,6 +1,6 @@
 # SmartContent - AI-Powered Content Analysis Web App
 
-![SmartContent Banner](https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&q=80&w=1200&h=400)
+
 
 ## 🚀 Overview
 
@@ -73,15 +73,6 @@ src/
 └── App.tsx             # Main application component
 ```
 
-## 🔍 Submission Information
-This project was created for the **Google Chrome Built-in AI Challenge**, showcasing the possibilities of Chrome's built-in AI capabilities to enrich productivity and content understanding directly in the browser.
-
-### 🎥 Video Demonstration
-Watch the video demonstration here: [SmartContent](https://youtu.be/kxTmtv777ew)
-
-### 🌐 Live Web App
-You can try out the live version of SmartContent here: [Netlify Live Link](https://stellular-kheer-8afbc5.netlify.app/)
-
 ### 🖋️ Text Description
 
 **SmartContent - AI-Powered Content Analysis Web App** is a Chrome web app that leverages Google’s Gemini API and Chrome’s built-in AI models to provide efficient, real-time content analysis directly in the browser. It helps users quickly summarize text, generate relevant tags, and receive smart suggestions, addressing the need for productivity tools that streamline content consumption and understanding.
@@ -93,9 +84,6 @@ You can try out the live version of SmartContent here: [Netlify Live Link](https
 #### Problem Solved
 SmartContent tackles the common challenge of quickly distilling key information from extensive content, helping users gain insights and generate ideas faster. It’s ideal for researchers, content creators, and anyone looking to save time and improve productivity by leveraging Chrome’s AI capabilities.
 
-## 🖋️ Development Feedback
-
-Throughout the development of SmartContent, the integration with the Gemini API and Chrome's built-in AI APIs proved both powerful and challenging. Here are some observations:
 
 ### Strengths:
 
@@ -117,26 +105,13 @@ Overall, these APIs allowed for a quick and smooth content analysis experience d
 4. Push to the branch (`git push origin feature/amazing-feature`).
 5. Open a Pull Request.
 
-## 👍 Fresh Hacks Winner
-SmartContent was recognized as the **Fresh Hacks Winner**! Check out the [Devpost Project Page](https://devpost.com/software/smartcontent-4udkj1?ref_content=user-portfolio&ref_feature=in_progress) for more details.
-
-## 🔄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🏆 Chrome Built-in AI Challenge
-
-This project was created for the Google Chrome Built-in AI Challenge, showcasing the possibilities of Chrome's built-in AI capabilities. It demonstrates how AI can enhance content understanding and user productivity directly in the browser.
-
 ### Challenge Features Used:
 - Content Analysis API
 - Smart Summarization
 - Intelligent Tagging
 - Context-Aware Suggestions
 
-## 🔒 Privacy
 
-SmartContent processes all content locally using Chrome's built-in AI capabilities. No content is stored or transmitted to external servers except for API calls to the Gemini API for enhanced analysis.
 
 ## 🙏 Acknowledgments
 
@@ -145,7 +120,5 @@ SmartContent processes all content locally using Chrome's built-in AI capabiliti
 - The React and TypeScript communities
 - All contributors and users
 
----
 
-Made with ❤️ for the Google Chrome Built-in AI Challenge.
 
